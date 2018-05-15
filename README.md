@@ -18,7 +18,7 @@ This is a train schedule application that incorporates Firebase to host arrival 
 
 
 
-## GitHub Repo: https://lponder82.github.io/TRAIN-TIME/
+## GitHub Repo: https://lablancaponder.github.io/TRAIN-TIME/
 
 
 
